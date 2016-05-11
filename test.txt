@@ -1,6 +1,11 @@
+000000
 123456
+<<<<<<< HEAD
 githubtest
 
 
 
 111111111
+=======
+gittest githubtest
+>>>>>>> 79f7d864dfd09a3c9632e431994fcdb63fc1eb9c
